@@ -16,7 +16,7 @@ function App() {
             endDate={item.endDate} 
             description={item.description} 
         />
-    )
+    ) 
 })
 
   return (
